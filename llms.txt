@@ -28,6 +28,8 @@
 
 ## Additional services
 
+- HOA tax returns and bookkeeping: federal and California tax returns and bookkeeping
+  for homeowners and condominium associations.
 - Real estate accounting: lease compliance and CAM audits for commercial tenants. The
   annual operating expense or CAM reconciliation a landlord issues is examined against
   the tenant's own lease and the supporting expense schedules. The output is a written
@@ -49,7 +51,7 @@ always contingency-based, and no recovery amount is promised.
 - [Home](https://christopherlarsencpa.com/): what the practice does, how an engagement runs.
 - [Small Business Accounting](https://christopherlarsencpa.com/small-business-accounting.html): bookkeeping, financial statements, business tax returns.
 - [Personal Tax Preparation](https://christopherlarsencpa.com/personal-tax-preparation.html): individual and family tax preparation.
-- [Additional Services](https://christopherlarsencpa.com/other-services.html): real estate accounting, entity selection, budgeting and forecasting, special projects.
+- [Additional Services](https://christopherlarsencpa.com/other-services.html): HOA tax returns and bookkeeping, real estate accounting, entity selection, budgeting and forecasting, special projects.
 - [Real Estate Accounting](https://christopherlarsencpa.com/real-estate-accounting.html): lease compliance, CAM reviews, real estate accounting.
 - [About](https://christopherlarsencpa.com/about.html): background, credentials, license number.
 - [Contact](https://christopherlarsencpa.com/contact.html): enquiry form and email address.
