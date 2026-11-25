@@ -9,7 +9,7 @@
    the contact form shows if a submission fails. The page is not held up:
    the hit goes out as a beacon and the mail app opens as normal. */
 (function () {
-  var EMAIL_CONVERSION_LABEL = '';
+  var EMAIL_CONVERSION_LABEL = 'ktxyCNmNx78dEJ_4uexE';
   if (!EMAIL_CONVERSION_LABEL) return;
 
   document.addEventListener('click', function (ev) {
