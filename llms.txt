@@ -42,6 +42,8 @@
 - Expense reconciliation and financial cleanup for owners and operators.
 - Entity selection and formation guidance, budgeting and forecasting, and special projects.
 - Ad hoc CPA advisory for real estate transactions.
+- 1031 exchange planning and reporting: tax analysis and reporting for like-kind exchanges
+  of real property, including deferred gain and the basis of replacement property.
 
 Engagements are scoped and priced on their own terms, fixed or hourly; work is not
 always contingency-based, and no recovery amount is promised.
