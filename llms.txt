@@ -53,6 +53,8 @@ always contingency-based, and no recovery amount is promised.
 - [Personal Tax Preparation](https://christopherlarsencpa.com/personal-tax-preparation.html): individual and family tax preparation.
 - [Additional Services](https://christopherlarsencpa.com/other-services.html): HOA tax returns and bookkeeping, real estate accounting, entity selection, budgeting and forecasting, special projects.
 - [Real Estate Accounting](https://christopherlarsencpa.com/real-estate-accounting.html): lease compliance, CAM reviews, real estate accounting.
+- [HOA Tax Returns and Bookkeeping](https://christopherlarsencpa.com/hoa-tax-returns.html): federal and California returns and bookkeeping for homeowners and condominium associations.
+- [SB 1103 and CAM Charges](https://christopherlarsencpa.com/sb-1103-cam-charges.html): what California Civil Code Section 1950.9 requires of landlords charging small tenants for operating costs.
 - [About](https://christopherlarsencpa.com/about.html): background, credentials, license number.
 - [Contact](https://christopherlarsencpa.com/contact.html): enquiry form and email address.
 - [Privacy](https://christopherlarsencpa.com/privacy.html): what the site collects.

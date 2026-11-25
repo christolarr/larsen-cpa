@@ -20,8 +20,10 @@ contact.html          Contact + form
 privacy.html          Privacy
 thanks.html           Contact-form confirmation (noindex)
 services.html         Redirect stub -> real-estate-accounting.html
+hoa-tax-returns.html  HOA tax returns and bookkeeping (linked from Other Services)
+sb-1103-cam-charges.html  SB 1103 / Civil Code 1950.9 explainer (linked from Real Estate Accounting)
 robots.txt            Crawler policy + sitemap pointer
-sitemap.xml           Eight URLs
+sitemap.xml           Ten URLs
 llms.txt              Summary for AI answer engines
 favicon.ico/.png      Cropped from the licensed brand monogram
 assets/style.css      Design system — plus style-v2.css (no JS, no third-party
