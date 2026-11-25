@@ -42,8 +42,11 @@
 - Expense reconciliation and financial cleanup for owners and operators.
 - Entity selection and formation guidance, budgeting and forecasting, and special projects.
 - Ad hoc CPA advisory for real estate transactions.
-- 1031 exchange planning and reporting: tax analysis and reporting for like-kind exchanges
-  of real property, including deferred gain and the basis of replacement property.
+- 1031 exchange planning and reporting for like-kind exchanges of real property: sell or
+  exchange analysis, 45-day and 180-day deadline tracking, identification rule review
+  (three-property, 200 percent, 95 percent), replacement property basis and depreciation,
+  and Form 8824 and California FTB Form 3840 reporting. Exchange funds are held by the
+  client's qualified intermediary.
 
 Engagements are scoped and priced on their own terms, fixed or hourly; work is not
 always contingency-based, and no recovery amount is promised.
